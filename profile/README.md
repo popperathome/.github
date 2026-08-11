@@ -36,7 +36,7 @@ To contribute: pick a QUEUED lead, run its decisive test, append your entry
 | [`lead-e6-coincidence`](https://github.com/popperathome/lead-e6-coincidence) | 💀 DIED WITH HONORS | Dauvergne's 27 geodesic networks vs the 27 lines on a cubic surface — a coincidence, now provably so |
 | [`lead-lpp-magnitude`](https://github.com/popperathome/lead-lpp-magnitude) | 🟢 SURVIVING | Magnitude homology of superadditive metrics counts disjoint geodesics in the KPZ class; reviewed draft paper attached |
 | [`lead-quantum-gowers-otoc`](https://github.com/popperathome/lead-quantum-gowers-otoc) | 💀 DIED WITH HONORS | Averaged higher OTOCs as quantum Gowers norms — died by citation; identity refuted at k ≥ 4 |
-| [`lead-lorentzian-landau`](https://github.com/popperathome/lead-lorentzian-landau) | ⏳ QUEUED | K-Lorentzian Symanzik polynomials; Hessian-signature transitions as Landau-pinch precursors |
+| [`lead-lorentzian-landau`](https://github.com/popperathome/lead-lorentzian-landau) | 🟢 SURVIVING | K-Lorentzian Symanzik polynomials: proven at one loop (Hessian = 2·Cayley), 0/1200 Euclidean failures; transitions land on Landau loci to ~1e-7; one open two-loop locus |
 | [`lead-deltamatroid-qcodes`](https://github.com/popperathome/lead-deltamatroid-qcodes) | ⏳ QUEUED | Lorentzian weight enumerators for a natural class of quantum codes (fastest falsifiable) |
 | [`lead-ricci-massgap`](https://github.com/popperathome/lead-ricci-massgap) | ⏳ QUEUED | Uniform synthetic Ricci bounds through RG and inverse limits toward spectral gaps (largest upside) |
 | [`lead-condensed-qft`](https://github.com/popperathome/lead-condensed-qft) | ⏳ QUEUED | Rebuilding QFT's functional analysis in liquid/condensed mathematics (foundational gamble) |
